@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring Framework/TabelaFipe/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/screenmatch/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/2770-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3257-java-desafio/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-desafio/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3356-java-screenmatch-web/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-screenmatch-com-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-screenmatch-com-jpa_/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-screenmatch-com-jpa_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-screenmatch-com-jpa_3/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-screenmatch-com-jpa_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3257-java-screenmatch-com-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Framework/3355-java-screenmatch-com-jpa_aula5/pom.xml" />
+        <option value="$PROJECT_DIR$/2700-spring-boot-aula_1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
